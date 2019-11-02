@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+
+h1 {
+    color: darkslategrey;
+    font-size: 50;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  color: slategray;
+  font-size: 25;
+  font-family: 'Dancing Script', cursive;
+  background-color: transparent;
+}
+
+body{
+    background-color: #00edde;
+    background-size: cover;
+    background-position: center;
+}
+
+p.outset {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: transparent;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 10px solid #121552;
+  }
+
+.button
+{
+  margin-left: 1000px;
+  color: #f0e1ee;
+  }
